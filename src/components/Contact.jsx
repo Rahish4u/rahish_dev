@@ -27,7 +27,7 @@ function Contact() {
   return (
     <section
       id="contact"
-      className="py-20 px-6 bg-gradient-to-br from-[#6E33F4] via-[#6B6EF7] to-[#33E4B2] text-white"
+      className="py-20 px-6 bg-gradient-to-br from-[#021e21] via-[#030406] to-[#202020] text-white"
     >
       <div className="max-w-2xl mx-auto bg-white/10 backdrop-blur-xl p-10 rounded-3xl shadow-lg">
         <h2 className="text-4xl font-bold text-center text-white mb-10 font-titillium">
@@ -92,7 +92,7 @@ function Contact() {
 
           <button
             type="submit"
-            className="w-40 bg-white text-black font-semibold py-2 px-6 rounded-full transition-all shadow-md hover:scale-105 hover:shadow-lg mx-auto block font-titillium"
+            className="w-35 bg-white text-black font-semibold py-2 px-4 rounded-full transition-all shadow-md hover:scale-105 hover:shadow-lg hover:bg-orange-500 hover:text-white mx-auto block font-titillium"
           >
             Send Message
           </button>

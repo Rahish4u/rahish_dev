@@ -31,7 +31,7 @@ function Skills() {
   return (
     <section
       id="skills"
-      className="py-20 px-6 bg-gradient-to-br from-[#6E33F4] via-[#6B6EF7] to-[#33E4B2] text-white"
+      className="py-20 px-6 bg-gradient-to-br from-[#021e21] via-[#546a7b] to-[#202020] text-white"
     >
       <div className="max-w-6xl mx-auto bg-white/10 backdrop-blur-xl p-10 rounded-3xl shadow-lg">
         <h2 className="text-4xl font-bold text-center mb-12 font-titillium">Skills</h2>
